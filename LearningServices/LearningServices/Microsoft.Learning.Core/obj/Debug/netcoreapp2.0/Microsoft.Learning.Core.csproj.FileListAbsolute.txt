@@ -1,0 +1,9 @@
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\Microsoft.Learning.Core\bin\Debug\netcoreapp2.0\Microsoft.Learning.Core.deps.json
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\Microsoft.Learning.Core\bin\Debug\netcoreapp2.0\Microsoft.Learning.Core.dll
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\Microsoft.Learning.Core\obj\Debug\netcoreapp2.0\Microsoft.Learning.Core.csprojResolveAssemblyReference.cache
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\Microsoft.Learning.Core\obj\Debug\netcoreapp2.0\Microsoft.Learning.Core.csproj.CoreCompileInputs.cache
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\Microsoft.Learning.Core\obj\Debug\netcoreapp2.0\Microsoft.Learning.Core.AssemblyInfoInputs.cache
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\Microsoft.Learning.Core\obj\Debug\netcoreapp2.0\Microsoft.Learning.Core.AssemblyInfo.cs
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\Microsoft.Learning.Core\bin\Debug\netcoreapp2.0\Microsoft.Learning.Core.pdb
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\Microsoft.Learning.Core\obj\Debug\netcoreapp2.0\Microsoft.Learning.Core.dll
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\Microsoft.Learning.Core\obj\Debug\netcoreapp2.0\Microsoft.Learning.Core.pdb

@@ -1,0 +1,12 @@
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.API.Shared\bin\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.API.Shared.deps.json
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.API.Shared\bin\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.API.Shared.dll
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.API.Shared\bin\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.API.Shared.pdb
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.API.Shared\obj\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.API.Shared.csprojResolveAssemblyReference.cache
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.API.Shared\obj\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.API.Shared.csproj.CoreCompileInputs.cache
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.API.Shared\obj\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.API.Shared.AssemblyInfoInputs.cache
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.API.Shared\obj\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.API.Shared.AssemblyInfo.cs
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.API.Shared\obj\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.API.Shared.dll
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.API.Shared\obj\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.API.Shared.pdb
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.API.Shared\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.API.Shared\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.API.Shared\obj\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.API.Shared.csproj.CopyComplete

@@ -1,0 +1,16 @@
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.Manager\obj\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.Manager.csprojResolveAssemblyReference.cache
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.Manager\obj\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.Manager.csproj.CoreCompileInputs.cache
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.Manager\obj\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.Manager.AssemblyInfoInputs.cache
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.Manager\obj\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.Manager.AssemblyInfo.cs
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.Manager\bin\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.Manager.deps.json
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.Manager\bin\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.Manager.dll
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.Manager\bin\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.Manager.pdb
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.Manager\bin\Debug\netcoreapp2.0\Microsoft.Learning.Core.dll
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.Manager\bin\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.API.Shared.dll
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.Manager\bin\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.Schema.dll
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.Manager\bin\Debug\netcoreapp2.0\Microsoft.Learning.Core.pdb
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.Manager\bin\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.Schema.pdb
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.Manager\bin\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.API.Shared.pdb
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.Manager\obj\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.Manager.csproj.CopyComplete
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.Manager\obj\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.Manager.dll
+C:\Raghav\WDIR\LexMicroservices_POC\LearningServices\LearningServices\UserProfileAPI\Microsoft.Learning.UserProfile.Manager\obj\Debug\netcoreapp2.0\Microsoft.Learning.UserProfile.Manager.pdb
